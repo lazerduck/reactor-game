@@ -1,0 +1,2 @@
+C:\Users\Adam\Desktop\reactor\reactor\reactor\reactorContent\obj\x86\Debug\reactorContent.contentprojResolveAssemblyReference.cache
+A:\Users\Adam\Desktop\website\reactor\reactor\reactor\reactorContent\obj\x86\Debug\reactorContent.contentprojResolveAssemblyReference.cache
